@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abeyoriu.github.io/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/app/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/assets/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/css/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/includes/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/item/sitemap.html.gz
+Sitemap: https://abeyoriu.github.io/src/sitemap.html.gz
